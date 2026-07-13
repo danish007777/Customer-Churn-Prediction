@@ -65,8 +65,7 @@ CUSTOMER_CHURN_PREDICTION
 Clone the repository
 
 ```bash
-git clone https://github.com/SHRADDHA-D-S/Customer_Churn_Prediction.git
-```
+git clone https://github.com/danish007777/Customer-Churn-Prediction.git
 
 Move into the project
 
@@ -216,8 +215,8 @@ or
 
 ## 👩‍💻 Author
 
-**Shraddha D S**
+**Danish Shaikh**
 
-GitHub: https://github.com/SHRADDHA-D-S
+GitHub: https://github.com/danish007777/
 
-LinkedIn: https://www.linkedin.com/in/shraddha-d-s
+LinkedIn: www.linkedin.com/in/danish-shaikh016
