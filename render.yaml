@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: customer-churn-api
+    env: docker
+    branch: main
+    plan: free
+    dockerfilePath: Dockerfile
+    envVars:
+      - key: PORT
+        value: "8000"
+    autoDeploy: true

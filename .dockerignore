@@ -5,7 +5,10 @@ __pycache__
 .ipynb_checkpoints
 notebooks
 mlruns
-artifacts
+# artifacts
+# NOTE: `artifacts` removed from ignore to include saved model in Docker image
+# If you prefer to keep artifacts out of the image, revert this change and instead
+# modify the Dockerfile to download or copy the model at build time.
 tests
 *.pyc
 *.pyo
