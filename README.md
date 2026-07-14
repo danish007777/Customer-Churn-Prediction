@@ -10,7 +10,7 @@ An end-to-end Machine Learning project that predicts whether a customer is likel
 
 ---
 
-[## 📌 Features
+## 📌 Features
 
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
