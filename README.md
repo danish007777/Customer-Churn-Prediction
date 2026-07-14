@@ -1,10 +1,16 @@
 # 🚀 Customer Churn Prediction System
 
-An end-to-end Machine Learning project that predicts whether a customer is likely to churn using a Scikit-learn Pipeline. The project includes experiment tracking with MLflow, REST API deployment using FastAPI, Docker containerization, and is ready for AWS deployment.
+An end-to-end Machine Learning project that predicts whether a customer is likely to churn using a Scikit-learn Pipeline. The project includes experiment tracking with MLflow, REST API deployment using FastAPI, Docker containerization, and is ready for RENDER deployment.
 
 ---
 
-## 📌 Features
+## 🚀 Live Demo
+
+🔗 **Live Application:** https://customer-churn-prediction-3-4my0.onrender.com
+
+---
+
+[## 📌 Features
 
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
@@ -58,7 +64,7 @@ CUSTOMER_CHURN_PREDICTION
 └── .dockerignore
 ```
 
----
+---](https://customer-churn-prediction-3-4my0.onrender.com)
 
 ## ⚙️ Installation
 
