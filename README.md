@@ -203,11 +203,6 @@ or
 
 ---
 
-## 📁 Project Structure
-
-![Project Structure](screenshots/project_structure.png)
-
----
 
 ## 📈 Future Improvements
 
